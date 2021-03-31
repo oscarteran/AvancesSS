@@ -1,6 +1,6 @@
 import os, sys 
 if not ("pynoxtli/base" in sys.path[0][-13:]):
-	sys.path.insert(0, os.path.abspath('../../base'))
+	sys.path.insert(0, os.path.abspath('../base'))
 
 import numpy as np 
 
