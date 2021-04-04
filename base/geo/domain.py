@@ -90,8 +90,8 @@ if __name__ == '__main__':
               Dim = dom.dim)
     
 # Crea una clase de tipo MyDomain e imprime sus atributos
-    t = MyDomain(1.2342,2.00123)
-    t.mesh = "hola" 
+    t = MyDomain(5,10)
+    t.mesh = "Prueba de clase Domain" 
     t.dirichlet = {'RIGHT':10, 'LEFT':5}    
     t.neumman = {'RIGHT_WALL':'D', 'LEFT_WALL':'D'}
     t.dim = '1D'
