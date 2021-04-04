@@ -6,3 +6,4 @@ Autor:
 
 Comentarios: 
 * Comenzamos a trabajar con el problema de flujo en un medio poroso
+* Se deben de cambiar la forma en la que se crea la matriz
