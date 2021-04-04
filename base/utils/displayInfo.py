@@ -38,7 +38,7 @@ def decorate(f):
             argumentos de la función a decorar.
 
         """
-        license_file = sys.path[0] + '/base/utils/license.txt'
+        license_file = sys.path[0] + '/utils/license.txt'
         pynoxtli_license = open(license_file).readline()
         line = '-' * 80
         print('.'+ line + '.')
