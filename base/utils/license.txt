@@ -1,1 +1,0 @@
-PyNoxtli : Ver. 0.2, LMCS-2020, [GNU GPL License V3]
